@@ -5,7 +5,7 @@
 4. [Lưu ý](#lưu-ý)
 
 ## Thông tin
-  Bot được làm bởi JukisYuri, Model: Qwen/Qwen2.5-Coder-32B-Instruct.
+  Bot được làm bởi JukisYuri
   Được viết bởi sinh viên năm 2 vẫn đang học trong trường, nên sẽ còn nhiều sai sót
   
 ## Cấu hình Discord-Bot
@@ -21,24 +21,10 @@
   ```sh
   npm install 
   ``` 
-4. Khuyên dùng nodemon nếu bạn muốn code theo yêu cầu của bạn: https://www.npmjs.com/package/nodemon
-  ```sh
-  nodemon index.js
-  ```
 
 ## Cách sử dụng
 1. Tệp index.js là tệp chính để khởi động con bot trong Discord
 2. Bạn có thể tự mình tiếp tục phát triển thêm dự án của chủ sở hữu hoặc contribute
-3. Tệp tutorial.js dùng để chứa những câu lệnh hướng dẫn cách dùng thông qua lệnh ! help
+3. Tệp tutorial.js dùng để chứa những câu lệnh hướng dẫn cách dùng thông qua lệnh !help
    
    ![image](https://github.com/user-attachments/assets/4c317c09-8fd9-4d1f-a759-812705b9e556)
-4. Bạn có thể đặt câu hỏi thông qua cú pháp: ! {câu hỏi}
-
-   ![image](https://github.com/user-attachments/assets/66fb07e3-6b19-4b91-aa69-b95cc98028f6)
-
-
-## Lưu ý
-1. Bot được sử dụng model nguyên mẫu, không qua train model
-2. Sử dụng API đến từ DiscordJS, được viết hoàn toàn bằng JavaScript
-3. Model không thuộc quyền sở hữu của JukisYuri
-4. Có thể góp ý và trò chuyện với mình trên **Discord: jukisyuri**
