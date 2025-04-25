@@ -26,5 +26,3 @@
 1. Tệp index.js là tệp chính để khởi động con bot trong Discord
 2. Bạn có thể tự mình tiếp tục phát triển thêm dự án của chủ sở hữu hoặc contribute
 3. Tệp tutorial.js dùng để chứa những câu lệnh hướng dẫn cách dùng thông qua lệnh !help
-   
-   ![image](https://github.com/user-attachments/assets/4c317c09-8fd9-4d1f-a759-812705b9e556)
