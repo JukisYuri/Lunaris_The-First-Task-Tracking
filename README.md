@@ -13,10 +13,8 @@
 2. Trong file .env
    ```env
    BOT_TOKEN= {Discord Bot token của bạn}
-   HUGGINGFACE_TOKEN= {HuggingFace token của bạn}
    ```
        Cách lấy BOT_TOKEN? https://discord.com/developers/docs/intro
-       Cách lấy HUGGINGFACE_TOKEN? https://huggingface.co/
 3. Cài đặt các Dependencies từ file package (bắt buộc phải cài NodeJS từ trước)
   ```sh
   npm install 
