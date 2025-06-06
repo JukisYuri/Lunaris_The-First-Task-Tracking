@@ -3,7 +3,6 @@
 2. [Cấu hình Discord-Bot](#cấu-hình-discord-bot)
 3. [Cách sử dụng](#cách-sử-dụng)
 4. [Lưu ý](#lưu-ý)
-5. [Funfact]
 
 ## Thông tin
   Bot được làm bởi JukisYuri
